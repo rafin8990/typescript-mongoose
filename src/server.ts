@@ -1,7 +1,7 @@
 import mongoose from 'mongoose';
 import app from './app';
 
-const port =process.env.PORT || 5000
+const port:number = 5000
 
 bootstrap().catch(err => console.log(err));
 async function bootstrap() {
