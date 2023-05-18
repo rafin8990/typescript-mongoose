@@ -1,0 +1,17 @@
+{
+    "id": "75sdghkl",
+    "role": "student",
+    "password": "Rafin019844@",
+    "name": {
+        "firstName": "Rafin",
+        "middleName": "",
+        "last": "Hossain"
+    },
+    "dateOfBirth": "01/01/2000",
+    "gender": "male",
+    "contact": "019844ZSKJgd",
+    "email": "abc@gmail.com",
+    "emmergencyContact": "57753467643",
+    "presentAddress": "Dhaka Bangladesh",
+    "permanentAddress": "Dhaka Bangladesh"
+}
