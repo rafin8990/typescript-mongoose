@@ -1,10 +1,10 @@
 {
-    "id": "75sdghkl",
-    "role": "student",
+    "id": "75sdghklfggh",
+    "role": "Admin",
     "password": "Rafin019844@",
     "name": {
-        "firstName": "Rafin",
-        "middleName": "",
+        "firstName": "Mr",
+        "middleName": "Admin",
         "last": "Hossain"
     },
     "dateOfBirth": "01/01/2000",

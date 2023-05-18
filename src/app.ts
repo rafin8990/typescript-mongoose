@@ -1,6 +1,5 @@
 import express, { Application } from 'express';
 import cors from 'cors';
-import { Schema, model } from 'mongoose';
 import userRoute from './app/modules/user/user.route';
 
 const app: Application = express();
