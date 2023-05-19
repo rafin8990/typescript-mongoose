@@ -13,7 +13,7 @@ export const getUserById=async(payload:string):Promise<IUser | null>=>{
 }
 
 export const CreateUserToDB = async (payload: IUser): Promise<IUser> => {
-   const user= new User(payload)
+   const user= new User(payload)  // instance method
    await user.save();
    return user;
 }
