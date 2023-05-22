@@ -19,6 +19,9 @@ export const CreateUserToDB = async (payload: IUser): Promise<IUser> => {
 }
 
 // now I am insert a data in mongoose . yeyyyyyy.
+// now I am insert a data in mongoose . yeyyyyyy.
+// now I am insert a data in mongoose . yeyyyyyy.
+// now I am insert a data in mongoose . yeyyyyyy.
 
 
 
